@@ -1,0 +1,56 @@
+{
+    "users": {
+        "Passenger": {
+            "jmglov19": {
+                "password": "password",
+                "fist_name": "John ",
+                "last_name": "Glover"
+            },
+            "ZQTQCGXQ": {
+                "password": "drew",
+                "fist_name": "Matt",
+                "last_name": "Abel"
+            },
+            "BW608QEI": {
+                "password": "Drew",
+                "fist_name": "Maphey",
+                "last_name": "Drew"
+            },
+            "EB7294SS": {
+                "password": "password",
+                "fist_name": "Cam",
+                "last_name": "Delo"
+            },
+            "KOBZZSY0": {
+                "password": "pass",
+                "fist_name": "Ruby",
+                "last_name": "Rose"
+            },
+            "1P44MO6O": {
+                "password": "pass",
+                "fist_name": "sam",
+                "last_name": "Fenn"
+            },
+            "2VK6BXPY": {
+                "password": "password",
+                "fist_name": "ed",
+                "last_name": "har"
+            },
+            "IDDCJHRC": {
+                "password": "password",
+                "fist_name": "Grace",
+                "last_name": "Harcourt"
+            }
+        },
+        "Staff": {
+            "Robert": "christmas",
+            "Drew": "1",
+            "John": "1",
+            "Ed": "christmas"
+        },
+        "Mechanics": {
+            "Charlie": "Charles",
+            "Cam": "K-Man"
+        }
+    }
+}
